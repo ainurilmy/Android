@@ -1,0 +1,2 @@
+# Referenced at E:\A_Perkuliahan\Semester_5\Aplikasi Video Streaming\AndroidProject\VideoStreaming\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }

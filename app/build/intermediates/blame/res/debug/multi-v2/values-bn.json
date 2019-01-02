@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\A_Perkuliahan\\Semester_5\\Aplikasi Video Streaming\\AndroidProject\\VideoStreaming\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SIGMA\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\d6d52c1dfed39e263ea62e75745b3ced\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "210",
+                        "endOffsets": "457"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1919",
+                        "endColumns": "210",
+                        "endOffsets": "2125"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SIGMA\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\87cfeab54fd0626386857f47f0c5d0c2\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "4986",
+                        "endColumns": "100",
+                        "endOffsets": "5082"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SIGMA\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-15.0.1.aar\\cecceb88ae16c8ea4c2581771737bfb8\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,266,381,449,524,610,726",
+                        "endColumns": "68,114,67,74,85,115,77",
+                        "endOffsets": "265,380,448,523,609,725,803"
+                    },
+                    "to": {
+                        "startLines": "41,42,43,44,45,46,47",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "4269,4342,4461,4533,4612,4702,4822",
+                        "endColumns": "72,118,71,78,89,119,81",
+                        "endOffsets": "4337,4456,4528,4607,4697,4817,4899"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SIGMA\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-27.1.1.aar\\cdecf67df839a8379f652f4d7c4d5a71\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,276,394,520,624,713,809,920,1020,1121,1225,1319,1430,1552,1640,1722,1804,1909,2010,2097",
+                        "endColumns": "104,115,117,125,103,88,95,110,99,100,103,93,110,121,87,81,81,104,100,86,96",
+                        "endOffsets": "155,271,389,515,619,708,804,915,1015,1116,1220,1314,1425,1547,1635,1717,1799,1904,2005,2092,2189"
+                    },
+                    "to": {
+                        "startLines": "20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2130,2235,2351,2469,2595,2699,2788,2884,2995,3095,3196,3300,3394,3505,3627,3715,3797,3879,3984,4085,4172",
+                        "endColumns": "104,115,117,125,103,88,95,110,99,100,103,93,110,121,87,81,81,104,100,86,96",
+                        "endOffsets": "2230,2346,2464,2590,2694,2783,2879,2990,3090,3191,3295,3389,3500,3622,3710,3792,3874,3979,4080,4167,4264"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SIGMA\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\8db5682bfa2e5fe5e0cd75b4fb037dc1\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,326,432,526,631,760,838,916,1003,1113,1221,1320,1430,1536,1649,1814,1919",
+                        "endColumns": "108,111,105,93,104,128,77,77,86,109,107,98,109,105,112,164,104,81",
+                        "endOffsets": "209,321,427,521,626,755,833,911,998,1108,1216,1315,1425,1531,1644,1809,1914,1996"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,326,432,526,631,760,838,916,1003,1113,1221,1320,1430,1536,1649,1814,4904",
+                        "endColumns": "108,111,105,93,104,128,77,77,86,109,107,98,109,105,112,164,104,81",
+                        "endOffsets": "209,321,427,521,626,755,833,911,998,1108,1216,1315,1425,1531,1644,1809,1914,4981"
+                    }
+                }
+            ]
+        }
+    ]
+}
